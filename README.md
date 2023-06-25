@@ -35,4 +35,4 @@ Setup instructions can be found on tebex. We also will help you set it up if nee
 
 **Support**
 -
-Support will be provided as requested. Upon purchasing, you are provided with an EULA to which you automatically agree to.
+Support will be provided as requested.
