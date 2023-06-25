@@ -8,3 +8,11 @@ E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionS
 E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.csproj.CopyComplete
 E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.Server.net.dll
 E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\deferralCard.json
+E:\Git Repositories\InvisionSync\InvisionSync\obj\Release\InvisionSync.csproj.AssemblyReference.cache
+E:\Git Repositories\InvisionSync\InvisionSync\obj\Release\InvisionSync.csproj.CoreCompileInputs.cache
+E:\Git Repositories\InvisionSync\InvisionSync\obj\Release\InvisionSync.Server.net.dll
+E:\Git Repositories\InvisionSync\release\deferralCard.json
+E:\Git Repositories\InvisionSync\release\config.json
+E:\Git Repositories\InvisionSync\release\fxmanifest.lua
+E:\Git Repositories\InvisionSync\release\InvisionSync.Server.net.dll
+E:\Git Repositories\InvisionSync\InvisionSync\obj\Release\InvisionSync.csproj.CopyComplete

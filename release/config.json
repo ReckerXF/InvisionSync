@@ -14,7 +14,6 @@
   },
   "invisionWhitelist": {
     "enabled": true,
-    "unwhitelistedMessage": "You are not whitelisted! Sign up on our forums at https://website.com",
     "whitelistedGroups": [ 1, 2, 3, 4, 5 ]
   }
 }

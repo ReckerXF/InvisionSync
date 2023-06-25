@@ -19,7 +19,7 @@ namespace InvisionSync.Server
     {
         #region Variables
         internal static User currentUser = new User();
-        internal string defferalCardJson = "";
+        internal static string deferralCardJson = "";
         #endregion
 
         #region Constructor
@@ -29,7 +29,7 @@ namespace InvisionSync.Server
 
             try
             {
-                string deferralCardJson = API.LoadResourceFile(API.GetCurrentResourceName(), "deferralCard.json");
+                deferralCardJson = API.LoadResourceFile(API.GetCurrentResourceName(), "deferralCard.json");
 
                 if (string.IsNullOrEmpty(deferralCardJson))
                 {
@@ -264,7 +264,7 @@ namespace InvisionSync.Server
             if (!IsWhitelisted(player) && ConfigHandler.WhitelistEnabled)
             {
                 ResetData();
-                deferrals.presentCard(jsonFile);
+                deferrals.presentCard(deferralCardJson);
                 //deferrals.done(ConfigHandler.UnwhitelistedMessage);
             }
             else if (ConfigHandler.AceSyncEnabled)
