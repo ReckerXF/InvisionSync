@@ -31,7 +31,27 @@ Invision Powerboard is hands down one of the most utilized forum softwares in Fi
 
 **Setup**
 -
-Setup instructions can be found on tebex. We also will help you set it up if needed.
+Setup:
+
+1. Create a rest API key in your Forum admin panel.
+
+https://yourwebsitehere.com/admin/?app=core&module=applications&controller=api&tab=apiKeys
+
+2. Ensure your rest API key has the following endpoint permissions:
+(Enable GET /core/members and /core/members/{id})
+
+3. Place your newly generated API key in the config.json of InvisionSync.
+
+4. Create a user field on your forum named "Steam Hex". This is where users will put their Steam Hex for the application to pick it up.
+
+5. Setup your ACE groups as desired.
+- The config.json will have placeholders to guide you.
+- If you are still confused for the groups part, it's formatted as ``"ace.group": [ forumgroupid1, forumgroupid2, etc.]``
+
+6. In your server.cfg or other .cfg file, add the following.
+``add_ace resource.invisionsync command.add_principal allow``
+
+You're ready to start having permissions and whitelisting be sync'd!
 
 **Support**
 -
