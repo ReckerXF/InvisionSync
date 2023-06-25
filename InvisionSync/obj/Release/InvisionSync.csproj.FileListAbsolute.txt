@@ -1,0 +1,10 @@
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\config.json
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\fxmanifest.lua
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\InvisionSync.Server.net.dll
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\Newtonsoft.Json.dll
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\Newtonsoft.Json.xml
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.csproj.AssemblyReference.cache
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.csproj.CoreCompileInputs.cache
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.csproj.CopyComplete
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionSync.Server.net.dll
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\deferralCard.json

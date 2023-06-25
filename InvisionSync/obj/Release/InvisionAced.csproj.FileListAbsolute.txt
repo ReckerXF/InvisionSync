@@ -1,0 +1,9 @@
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\Newtonsoft.Json.dll
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\Newtonsoft.Json.xml
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionAced.csproj.AssemblyReference.cache
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionAced.csproj.CoreCompileInputs.cache
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionAced.csproj.CopyComplete
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\config.json
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\fxmanifest.lua
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\bin\Release\InvisionAced.Server.net.dll
+E:\Git Repositories\InvisionAced\InvisionAced\InvisionAced\obj\Release\InvisionAced.Server.net.dll

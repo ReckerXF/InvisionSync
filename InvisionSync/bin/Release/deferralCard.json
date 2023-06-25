@@ -1,0 +1,35 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://i.imgur.com/NwQu3s2.png"
+    },
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Whitelist check failed!"
+    },
+    {
+      "type": "TextBlock",
+      "text": "You are not whitelisted! Please check out our Discord/Forum and apply today!",
+      "wrap": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Join our Discord!",
+      "url": "https://discord.gg/beyondrp"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Signup on our Forums!",
+      "tooltip": "Signup on our Forums!",
+      "url": "https://beyondrp.net"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.5"
+}

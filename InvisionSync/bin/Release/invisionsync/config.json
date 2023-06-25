@@ -1,0 +1,20 @@
+{
+  "websiteURL": "https://website.com",
+  "apiKey": "apikeyhere",
+  "debugMode": false,
+  "aceSync": {
+    "enabled": true,
+    "defaultGroup": "builtin.everyone",
+    "groups": {
+      "group.admin": [ 1, 2, 3 ],
+      "group.moderator": [ 4, 5 ],
+      "group.helper": [ 6 ]
+    },
+    "checkSecondaryGroups": true
+  },
+  "invisionWhitelist": {
+    "enabled": true,
+    "unwhitelistedMessage": "You are not whitelisted! Sign up on our forums at https://website.com",
+    "whitelistedGroups": [ 1, 2, 3, 4, 5 ]
+  }
+}
