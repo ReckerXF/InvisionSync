@@ -1,5 +1,5 @@
 # InvisionSync
-*InvisionSync is a clean way to synchronize your Invision Powerboard forum groups with your ACE permissions in-game (& whitelist users, too!)*
+*InvisionSync is a clean way to synchronize your Invision Powerboard forum groups with your FiveM ACE permissions in-game (& whitelist users, too!)*
 
 *This script has been tested extensively in a production environment running FiveM Cerulean and IPS 4.7. It was originally created for my community, but I have since decided to share it with the world!*
 
