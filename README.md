@@ -7,10 +7,6 @@
 -
 Invision Powerboard is hands down one of the most utilized forum softwares in FiveM. While my community was in the development stage, we wanted an easy way to manage member permissions without having to manually edit the permissions file everytime someone got promoted or demoted. This manual editing would also require a server restart which is a huge security risk. So, I set out to create InvisonSync to handle permissions management for us! As a bonus, InvisionSync also has the capability to whitelist users to the server too dependent on forum group.
 
-**KNOWN BUG - Unable to make API Request**
--
-A bug has been found for websites requiring TLS1.2 or higher. In order to be able to use this addon, you MUST allow TLS 1 or TLS 1.1. Otherwise, the script will be unable to request the API data. This is due to FiveM's aging mono environment.
-
 **Features**
 - 
 * Synchronize permissions via ACE from your Invision Powerboard forum to in-game.
@@ -56,6 +52,10 @@ https://yourwebsitehere.com/admin/?app=core&module=applications&controller=api&t
 ``add_ace resource.invisionsync command.add_principal allow``
 
 You're ready to start having permissions and whitelisting be sync'd!
+
+**KNOWN BUG - Unable to make API Request**
+-
+A bug has been found for websites requiring TLS1.2 or higher. In order to be able to use this addon, you MUST allow TLS 1 or TLS 1.1. Otherwise, the script will be unable to request the API data. This is due to FiveM's aging mono environment.
 
 **Support**
 -
